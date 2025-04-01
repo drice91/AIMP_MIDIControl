@@ -1,0 +1,10 @@
+/*.filters
+/*.user
+Debug/
+bin/
+obj/
+Release/
+x64/
+lib/aimp_sdk_540/
+lib/rtmidi/
+*.msi
